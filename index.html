@@ -1,101 +1,206 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>ANITS Portal</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>My Styled Webpage</title>
+
+    <!-- External CSS -->
+    <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
 
-<center>
-    <h1>ANIL NEERUKONDA INSTITUTE OF TECHNOLOGY & SCIENCES</h1>
-    <p>The Route for Better Life</p>
-</center>
+    <!-- ================= HEADER ================= -->
+    <header>
+        <h1>My Styled Webpage</h1>
+        <p>HTML5 Graphics and CSS3 Web Styling</p>
+    </header>
 
-<table border="1" width="100%" cellpadding="10">
 
-<tr>
+    <!-- ================= NAVIGATION BAR ================= -->
+    <nav>
+        <a href="#home">Home</a>
+        <a href="#canvas">Canvas</a>
+        <a href="#cards">Cards</a>
+        <a href="#about">About</a>
+    </nav>
 
-    <!-- Bulletin Board -->
-    <td width="25%" valign="top">
-        <h2>Bulletin Board</h2>
-        <ul>
-            <li>B.Tech II-Sem Time Tables</li>
-            <li>B.Tech Results</li>
-            <li>Sessional Marks</li>
-            <li>M.Tech Results</li>
-            <li>Exam Notifications</li>
-        </ul>
-    </td>
 
-    <!-- Student Form -->
-    <td width="50%" valign="top">
+    <!-- ================= MAIN CONTENT ================= -->
+    <main>
 
-        <h2>Student Details</h2>
+        <!-- HOME SECTION -->
+        <section id="home" class="intro">
+            <h2>Welcome to My Styled Webpage</h2>
 
-        <form>
+            <p>
+                This webpage demonstrates HTML5 Canvas and modern
+                CSS3 styling techniques such as gradients, shadows,
+                borders, rounded corners and hover effects.
+            </p>
 
-            Name:<br>
-            <input type="text"><br><br>
+            <button>Explore More</button>
+        </section>
 
-            Phone:<br>
-            <input type="tel"><br><br>
 
-            Roll No:<br>
-            <input type="text"><br><br>
+        <!-- ================= CANVAS SECTION ================= -->
+        <section id="canvas" class="canvas-section">
 
-            Branch:<br>
-            <input type="text"><br><br>
+            <h2>HTML5 Canvas Graphics</h2>
 
-            Section:<br>
-            <select>
-                <option>A</option>
-                <option>B</option>
-                <option>C</option>
-                <option>D</option>
-            </select>
+            <canvas id="myCanvas" width="700" height="350">
+                Your browser does not support HTML5 Canvas.
+            </canvas>
 
-            <br><br>
+        </section>
 
-            <input type="submit" value="Submit">
 
-        </form>
+        <!-- ================= THREE CONTENT CARDS ================= -->
+        <section id="cards" class="cards-section">
 
-        <h2>Student Reviews</h2>
+            <h2>CSS3 Concepts</h2>
 
-        <p>ANITS provides excellent education and placement opportunities.</p>
+            <div class="cards">
 
-        <p>Mechanical labs are well equipped and practical.</p>
+                <!-- CARD 1 -->
+                <div class="card">
+                    <h3>HTML5 Canvas</h3>
 
-        <p>ECE department offers great learning and projects.</p>
+                    <p>
+                        Canvas allows us to draw graphics such as
+                        rectangles, circles, lines and text directly
+                        on a webpage using JavaScript.
+                    </p>
 
-        <h2>Contact Us</h2>
+                    <button>Learn More</button>
+                </div>
 
-        <p>
-            ANITS, Sangivalasa,<br>
-            Visakhapatnam, AP<br>
-            Phone: 8712005999<br>
-            Email: principal@anits.edu.in
-        </p>
 
-    </td>
+                <!-- CARD 2 -->
+                <div class="card">
+                    <h3>CSS3 Styling</h3>
 
-    <!-- Events -->
-    <td width="25%" valign="top">
+                    <p>
+                        CSS3 is used to improve the appearance of
+                        webpages using colors, fonts, borders,
+                        gradients, shadows and animations.
+                    </p>
 
-        <h2>Events</h2>
+                    <button>Learn More</button>
+                </div>
 
-        <ul>
-            <li>ICIMES-2026</li>
-            <li>FDP on AI</li>
-            <li>Machine Learning Workshop</li>
-            <li>World Earth Day</li>
-            <li>EV Workshop</li>
-        </ul>
 
-    </td>
+                <!-- CARD 3 -->
+                <div class="card">
+                    <h3>Hover Effects</h3>
 
-</tr>
+                    <p>
+                        Hover effects provide visual feedback when
+                        users move their mouse over buttons,
+                        navigation links or cards.
+                    </p>
 
-</table>
+                    <button>Learn More</button>
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- ================= ABOUT SECTION ================= -->
+        <section id="about" class="about-section">
+
+            <h2>About This Page</h2>
+
+            <p>
+                This webpage demonstrates basic HTML5 and CSS3
+                concepts required for the practical examination.
+            </p>
+
+        </section>
+
+    </main>
+
+
+    <!-- ================= FOOTER ================= -->
+    <footer>
+        <p>&copy; 2026 My Styled Webpage | HTML5 & CSS3</p>
+    </footer>
+
+
+    <!-- ================= CANVAS JAVASCRIPT ================= -->
+    <script>
+
+        // Get the canvas
+        const canvas = document.getElementById("myCanvas");
+
+        // Get 2D drawing context
+        const ctx = canvas.getContext("2d");
+
+
+        // ------------------------------------
+        // 1. Draw Rectangle
+        // ------------------------------------
+
+        ctx.fillStyle = "#3498db";
+        ctx.fillRect(80, 80, 150, 100);
+
+
+        // ------------------------------------
+        // 2. Draw Circle
+        // ------------------------------------
+
+        ctx.beginPath();
+
+        ctx.arc(
+            350,     // X position
+            130,     // Y position
+            60,      // Radius
+            0,       // Starting angle
+            2 * Math.PI
+        );
+
+        ctx.fillStyle = "#e74c3c";
+        ctx.fill();
+
+        ctx.closePath();
+
+
+        // ------------------------------------
+        // 3. Draw Line
+        // ------------------------------------
+
+        ctx.beginPath();
+
+        ctx.moveTo(480, 80);
+        ctx.lineTo(620, 180);
+
+        ctx.strokeStyle = "#2c3e50";
+        ctx.lineWidth = 6;
+
+        ctx.stroke();
+
+        ctx.closePath();
+
+
+        // ------------------------------------
+        // 4. Display Name as Text
+        // ------------------------------------
+
+        ctx.font = "bold 28px Arial";
+        ctx.fillStyle = "#8e44ad";
+
+        ctx.fillText(
+            "CHARAN",
+            270,
+            280
+        );
+
+    </script>
 
 </body>
 </html>
+```
