@@ -1,0 +1,1075 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 5
+/Kids [ 4 0 R 11 0 R 13 0 R 15 0 R 17 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 6935
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 7.5 Tf 9 TL ET
+.396078 .458824 .529412 rg
+BT 1 0 0 1 51.02362 25.51181 Tm (Full Stack Web Development Lab \(23CM4121\) | B.JATIN - A24126552070) Tj T* ET
+BT 1 0 0 1 520.4845 25.51181 Tm (Page 1) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 764.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL 147.2862 0 Td (LABORATORY RECORD) Tj T* -147.2862 0 Td ET
+Q
+Q
+q
+1 0 0 1 66.61417 624.8661 cm
+q
+.933333 .94902 .964706 rg
+n 0 132 107.7165 -132 re f*
+0 0 0 rg
+BT /F2 9 Tf 12 TL ET
+BT 1 0 0 1 6 118 Tm (Course) Tj T* ET
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 113.7165 118 Tm (Full Stack Web Development) Tj T* ET
+BT /F2 9 Tf 12 TL ET
+BT 1 0 0 1 6 96 Tm (Course Code) Tj T* ET
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 113.7165 96 Tm (23CM4121) Tj T* ET
+BT /F2 9 Tf 12 TL ET
+BT 1 0 0 1 6 74 Tm (Experiment No.) Tj T* ET
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 113.7165 74 Tm (2) Tj T* ET
+BT /F2 9 Tf 12 TL ET
+BT 1 0 0 1 6 52 Tm (Student Name) Tj T* ET
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 113.7165 52 Tm (B.JATIN) Tj T* ET
+BT /F2 9 Tf 12 TL ET
+BT 1 0 0 1 6 30 Tm (Roll No.) Tj T* ET
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 113.7165 30 Tm (A24126552070) Tj T* ET
+BT /F2 9 Tf 12 TL ET
+BT 1 0 0 1 6 8 Tm (Date) Tj T* ET
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 113.7165 8 Tm (30-08-2026) Tj T* ET
+q
+1 J
+1 j
+.501961 .501961 .501961 RG
+.5 w
+n 0 132 m 462.0472 132 l S
+n 0 0 m 462.0472 0 l S
+n 0 0 m 0 132 l S
+n 462.0472 0 m 462.0472 132 l S
+n 0 110 m 462.0472 110 l S
+n 0 88 m 462.0472 88 l S
+n 0 66 m 462.0472 66 l S
+n 0 44 m 462.0472 44 l S
+n 0 22 m 462.0472 22 l S
+n 107.7165 0 m 107.7165 132 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 616.8661 cm
+Q
+q
+1 0 0 1 57.02362 594.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 12.5 Tf 15 TL (1. TITLE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 575.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Design and Implementation of a Styled Webpage Using HTML5 and CSS3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 553.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 12.5 Tf 15 TL (2. AIM) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 521.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (To design and implement an attractive static webpage using HTML5 and CSS3 with navigation links, content) Tj T* (cards, gradients, text shadows, hover effects, flexbox layout, borders, rounded corners, buttons, and a footer.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 499.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 12.5 Tf 15 TL (3. OBJECTIVE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 480.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (1. To create a structured webpage using HTML5 elements.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 461.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (2. To link an external CSS file with an HTML document.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 442.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (3. To apply CSS properties such as background, color, padding, margin, and font styles.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 423.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (4. To arrange webpage cards using CSS Flexbox.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 404.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (5. To implement hover effects for navigation links and buttons.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 385.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (6. To create visually attractive cards using borders, border-radius, and box-shadow.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 363.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 12.5 Tf 15 TL (4. THEORY) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 305.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 42.5 Tm /F1 9.5 Tf 13 TL (CSS3 \(Cascading Style Sheets\) is used to control the presentation and layout of HTML elements. CSS can modify) Tj T* (colors, fonts, spacing, borders, shadows, and alignment. Flexbox provides an efficient way to arrange elements) Tj T* -0.050697 Tw (horizontally or vertically. Pseudo-class selectors such as :hover allow styles to change when the user interacts with) Tj T* 0 Tw (an element. External stylesheets keep webpage structure and presentation separate.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 273.8661 cm
+q
+BT 1 0 0 1 0 16.5 Tm 13 TL /F2 9.5 Tf 0 0 0 rg (Application Flow:) Tj /F1 9.5 Tf ( HTML5 Structure ) Tj /F3 9.5 Tf 13 TL (\256) Tj /F1 9.5 Tf 13 TL ( External CSS ) Tj /F3 9.5 Tf 13 TL (\256) Tj /F1 9.5 Tf 13 TL ( Navigation Styling ) Tj /F3 9.5 Tf 13 TL (\256) Tj /F1 9.5 Tf 13 TL ( Flexbox Cards ) Tj /F3 9.5 Tf 13 TL (\256) Tj /F1 9.5 Tf 13 TL ( Hover Effects ) Tj /F3 9.5 Tf 13 TL (\256) Tj /F1 9.5 Tf 13 TL T* (Footer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 251.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 12.5 Tf 15 TL (5. ALGORITHM / PROCEDURE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 232.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (1. Create an HTML5 document and define the page title as 'Technology Hub'.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 213.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (2. Link the external stylesheet style.css inside the head section.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 194.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (3. Create a header containing the main webpage heading.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 175.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (4. Create a navigation bar with Dashboard, Projects, Courses, and Support links.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 156.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (5. Create three content boxes for Python, JavaScript, and Database topics.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 137.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (6. Add headings, descriptions, and Explore buttons inside each box.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 118.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (7. Create a footer displaying the copyright information.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 99.86614 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (8. In CSS, style the body, header, navigation, links, content area, boxes, buttons, and footer.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 80.86614 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (9. Use Flexbox to align the content boxes and add hover effects to links and buttons.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 61.86614 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (10. Open the HTML file in a browser and verify the layout and styling.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+210.6986 -28.12042 30.92252 13.30499 re
+f*
+0 0 0 rg
+BT
+/F1-0 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 212.1986 -25.62042 Tm
+(Sai Charan) Tj
+T*
+ET
+1 1 1 rg
+n
+245.2886 -28.12042 53.87262 13.30499 re
+f*
+0 0 0 rg
+BT
+/F1-0 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 246.7886 -25.62042 Tm
+(A24126552096) Tj
+T*
+ET
+1 1 1 rg
+n
+178.8307 622.7853 36.507 15.366 re
+f*
+0 0 0 rg
+BT
+/F1-0 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 180.3307 625.2853 Tm
+(Sai Charan) Tj
+T*
+ET
+1 1 1 rg
+n
+178.8307 600.7853 64.04698 15.366 re
+f*
+0 0 0 rg
+BT
+/F1-0 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 180.3307 603.2853 Tm
+(A24126552096) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Symbol
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/Contents 12 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+12 0 obj
+<<
+/Length 3809
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 7.5 Tf 9 TL ET
+.396078 .458824 .529412 rg
+BT 1 0 0 1 51.02362 25.51181 Tm (Full Stack Web Development Lab \(23CM4121\) | B.JATIN - A24126552070) Tj T* ET
+BT 1 0 0 1 520.4845 25.51181 Tm (Page 2) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 769.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 12.5 Tf 15 TL (6. PROGRAM) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 750.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2 9.5 Tf 13 TL (index.html) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 290.8661 cm
+q
+BT 1 0 0 1 8 452.8 Tm 9.2 TL /F4 7.2 Tf 0 0 0 rg (<) Tj (!DOCTYPE html) Tj (>) Tj  T* (<) Tj (html lang="en") Tj (>) Tj  T* (<) Tj (head) Tj (>) Tj  T* (<) Tj (meta charset="UTF-8") Tj (>) Tj  T* (<) Tj (meta name="viewport" content="width=device-width, initial-scale=1.0") Tj (>) Tj  T* (<) Tj (title) Tj (>) Tj (Technology Hub) Tj (<) Tj (/title) Tj (>) Tj  T* (<) Tj (link rel="stylesheet" href="style.css") Tj (>) Tj  T* (<) Tj (/head) Tj (>) Tj  T*  T* (<) Tj (body) Tj (>) Tj  T*  T* (<) Tj (header) Tj (>) Tj  T* (<) Tj (h1) Tj (>) Tj (Technology Hub) Tj (<) Tj (/h1) Tj (>) Tj  T* (<) Tj (/header) Tj (>) Tj  T*  T* (<) Tj (nav) Tj (>) Tj  T* (<) Tj (a href="#") Tj (>) Tj (Dashboard) Tj (<) Tj (/a) Tj (>) Tj  T* (<) Tj (a href="#") Tj (>) Tj (Projects) Tj (<) Tj (/a) Tj (>) Tj  T* (<) Tj (a href="#") Tj (>) Tj (Courses) Tj (<) Tj (/a) Tj (>) Tj  T* (<) Tj (a href="#") Tj (>) Tj (Support) Tj (<) Tj (/a) Tj (>) Tj  T* (<) Tj (/nav) Tj (>) Tj  T*  T* (<) Tj (section class="content") Tj (>) Tj  T*  T* (<) Tj (div class="box") Tj (>) Tj  T* (<) Tj (h2) Tj (>) Tj (Python) Tj (<) Tj (/h2) Tj (>) Tj  T* (<) Tj (p) Tj (>) Tj (Python is a popular programming language used for software development.) Tj (<) Tj (/p) Tj (>) Tj  T* (<) Tj (button) Tj (>) Tj (Explore) Tj (<) Tj (/button) Tj (>) Tj  T* (<) Tj (/div) Tj (>) Tj  T*  T* (<) Tj (div class="box") Tj (>) Tj  T* (<) Tj (h2) Tj (>) Tj (JavaScript) Tj (<) Tj (/h2) Tj (>) Tj  T* (<) Tj (p) Tj (>) Tj (JavaScript adds functionality and interactive features to websites.) Tj (<) Tj (/p) Tj (>) Tj  T* (<) Tj (button) Tj (>) Tj (Explore) Tj (<) Tj (/button) Tj (>) Tj  T* (<) Tj (/div) Tj (>) Tj  T*  T* (<) Tj (div class="box") Tj (>) Tj  T* (<) Tj (h2) Tj (>) Tj (Database) Tj (<) Tj (/h2) Tj (>) Tj  T* (<) Tj (p) Tj (>) Tj (Databases are used to store, organize, and manage application data.) Tj (<) Tj (/p) Tj (>) Tj  T* (<) Tj (button) Tj (>) Tj (Explore) Tj (<) Tj (/button) Tj (>) Tj  T* (<) Tj (/div) Tj (>) Tj  T*  T* (<) Tj (/section) Tj (>) Tj  T*  T* (<) Tj (footer) Tj (>) Tj  T* (<) Tj (p) Tj (>) Tj (\251 2026 Technology Hub) Tj (<) Tj (/p) Tj (>) Tj  T* (<) Tj (/footer) Tj (>) Tj  T*  T* (<) Tj (/body) Tj (>) Tj  T* (<) Tj (/html) Tj (>) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 282.8661 cm
+Q
+q
+1 0 0 1 57.02362 263.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2 9.5 Tf 13 TL (style.css) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 61.46614 cm
+q
+BT 1 0 0 1 8 195.2 Tm 9.2 TL /F4 7.2 Tf 0 0 0 rg (body {) Tj  T* (margin: 0;) Tj  T* (font-family: Arial, sans-serif;) Tj  T* (background: #eef5f9;) Tj  T* (}) Tj  T*  T* (header {) Tj  T* (background: linear-gradient\(to right, #ff6600, #ff0066\);) Tj  T* (color: white;) Tj  T* (text-align: center;) Tj  T* (padding: 25px;) Tj  T* (text-shadow: 2px 2px 5px gray;) Tj  T* (}) Tj  T*  T* (nav {) Tj  T* (background: #222;) Tj  T* (text-align: center;) Tj  T* (padding: 15px;) Tj  T* (}) Tj  T*  T* (nav a {) Tj  T* (color: white;) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+210.6986 -28.12042 30.92252 13.30499 re
+f*
+0 0 0 rg
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 212.1986 -25.62042 Tm
+(Sai Charan) Tj
+T*
+ET
+1 1 1 rg
+n
+245.2886 -28.12042 53.87262 13.30499 re
+f*
+0 0 0 rg
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 246.7886 -25.62042 Tm
+(A24126552096) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+13 0 obj
+<<
+/Contents 14 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+14 0 obj
+<<
+/Length 1665
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 7.5 Tf 9 TL ET
+.396078 .458824 .529412 rg
+BT 1 0 0 1 51.02362 25.51181 Tm (Full Stack Web Development Lab \(23CM4121\) | B.JATIN - A24126552070) Tj T* ET
+BT 1 0 0 1 520.4845 25.51181 Tm (Page 3) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 352.4661 cm
+q
+BT 1 0 0 1 8 425.2 Tm 9.2 TL /F4 7.2 Tf 0 0 0 rg  T* (text-decoration: none;) Tj  T* (margin: 20px;) Tj  T* (font-size: 18px;) Tj  T* (}) Tj  T*  T* (nav a:hover {) Tj  T* (color: orange;) Tj  T* (}) Tj  T*  T* (.content {) Tj  T* (display: flex;) Tj  T* (justify-content: center;) Tj  T* (gap: 25px;) Tj  T* (margin: 35px;) Tj  T* (}) Tj  T*  T* (.box {) Tj  T* (background: white;) Tj  T* (width: 250px;) Tj  T* (padding: 20px;) Tj  T* (border: 2px solid #555;) Tj  T* (border-radius: 10px;) Tj  T* (text-align: center;) Tj  T* (box-shadow: 5px 5px 10px #999;) Tj  T* (}) Tj  T*  T* (button {) Tj  T* (background: #0066cc;) Tj  T* (color: white;) Tj  T* (border: none;) Tj  T* (padding: 10px 18px;) Tj  T* (border-radius: 5px;) Tj  T* (cursor: pointer;) Tj  T* (}) Tj  T*  T* (button:hover {) Tj  T* (background: #ff6600;) Tj  T* (}) Tj  T*  T* (footer {) Tj  T* (background: #222;) Tj  T* (color: white;) Tj  T* (text-align: center;) Tj  T* (padding: 15px;) Tj  T* (margin-top: 20px;) Tj  T* (}) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+210.6986 -28.12042 30.92252 13.30499 re
+f*
+0 0 0 rg
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 212.1986 -25.62042 Tm
+(Sai Charan) Tj
+T*
+ET
+1 1 1 rg
+n
+245.2886 -28.12042 53.87262 13.30499 re
+f*
+0 0 0 rg
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 246.7886 -25.62042 Tm
+(A24126552096) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+15 0 obj
+<<
+/Contents 16 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+16 0 obj
+<<
+/Length 4618
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 7.5 Tf 9 TL ET
+.396078 .458824 .529412 rg
+BT 1 0 0 1 51.02362 25.51181 Tm (Full Stack Web Development Lab \(23CM4121\) | B.JATIN - A24126552070) Tj T* ET
+BT 1 0 0 1 520.4845 25.51181 Tm (Page 4) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 769.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 12.5 Tf 15 TL (7. CODE EXPLANATION) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66.61417 588.8661 cm
+q
+.913725 .933333 .956863 rg
+n 0 176 462.0472 -22 re f*
+0 0 0 rg
+BT /F2 8.5 Tf 12 TL ET
+BT 1 0 0 1 6 162.5 Tm (Code / Syntax) Tj T* ET
+BT 1 0 0 1 161.9055 162.5 Tm (Explanation) Tj T* ET
+BT /F1 8.5 Tf 12 TL ET
+BT 1 0 0 1 6 140.5 Tm (<header>) Tj T* ET
+BT 1 0 0 1 161.9055 140.5 Tm (Defines the header section containing the main webpage heading.) Tj T* ET
+BT 1 0 0 1 6 118.5 Tm (<nav>) Tj T* ET
+BT 1 0 0 1 161.9055 118.5 Tm (Creates the navigation section containing webpage links.) Tj T* ET
+BT 1 0 0 1 6 96.5 Tm (.content { display: flex; }) Tj T* ET
+BT 1 0 0 1 161.9055 96.5 Tm (Uses Flexbox to arrange the content boxes in a row.) Tj T* ET
+BT 1 0 0 1 6 74.5 Tm (.box) Tj T* ET
+BT 1 0 0 1 161.9055 74.5 Tm (Styles each content card with padding, border, rounded corners, and shadow.) Tj T* ET
+BT 1 0 0 1 6 52.5 Tm (:hover) Tj T* ET
+BT 1 0 0 1 161.9055 52.5 Tm (Changes the appearance of links and buttons when the mouse moves over them.) Tj T* ET
+BT 1 0 0 1 6 30.5 Tm (linear-gradient\(\)) Tj T* ET
+BT 1 0 0 1 161.9055 30.5 Tm (Creates a smooth color transition in the header background.) Tj T* ET
+BT 1 0 0 1 6 8.5 Tm (box-shadow) Tj T* ET
+BT 1 0 0 1 161.9055 8.5 Tm (Adds a shadow effect around the content boxes.) Tj T* ET
+q
+1 J
+1 j
+.501961 .501961 .501961 RG
+.5 w
+n 0 176 m 462.0472 176 l S
+n 0 0 m 462.0472 0 l S
+n 0 0 m 0 176 l S
+n 462.0472 0 m 462.0472 176 l S
+n 0 154 m 462.0472 154 l S
+n 0 132 m 462.0472 132 l S
+n 0 110 m 462.0472 110 l S
+n 0 88 m 462.0472 88 l S
+n 0 66 m 462.0472 66 l S
+n 0 44 m 462.0472 44 l S
+n 0 22 m 462.0472 22 l S
+n 155.9055 0 m 155.9055 176 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 566.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 12.5 Tf 15 TL (8. TEST CASES AND EXECUTION DATA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66.61417 441.8661 cm
+q
+.913725 .933333 .956863 rg
+n 0 120 462.0472 -20 re f*
+0 0 0 rg
+BT /F2 7.4 Tf 12 TL ET
+BT 1 0 0 1 6 108.6 Tm (Test Case) Tj T* ET
+BT 1 0 0 1 68.3622 108.6 Tm (Input / Action) Tj T* ET
+BT 1 0 0 1 167.5748 108.6 Tm (Expected Result) Tj T* ET
+BT 1 0 0 1 289.4646 108.6 Tm (Actual Result) Tj T* ET
+BT 1 0 0 1 408.5197 108.6 Tm (Status) Tj T* ET
+BT /F1 7.4 Tf 12 TL ET
+BT 1 0 0 1 6 88.6 Tm (TC-01) Tj T* ET
+BT 1 0 0 1 68.3622 88.6 Tm (Open webpage) Tj T* ET
+BT 1 0 0 1 167.5748 88.6 Tm (Header and navigation are displayed) Tj T* ET
+BT 1 0 0 1 289.4646 88.6 Tm (Displayed correctly) Tj T* ET
+BT 1 0 0 1 408.5197 88.6 Tm (Pass) Tj T* ET
+BT 1 0 0 1 6 68.6 Tm (TC-02) Tj T* ET
+BT 1 0 0 1 68.3622 68.6 Tm (Inspect cards) Tj T* ET
+BT 1 0 0 1 167.5748 68.6 Tm (Three topic cards appear in a row) Tj T* ET
+BT 1 0 0 1 289.4646 68.6 Tm (Cards aligned using Flexbox) Tj T* ET
+BT 1 0 0 1 408.5197 68.6 Tm (Pass) Tj T* ET
+BT 1 0 0 1 6 48.6 Tm (TC-03) Tj T* ET
+BT 1 0 0 1 68.3622 48.6 Tm (Move mouse over link) Tj T* ET
+BT 1 0 0 1 167.5748 48.6 Tm (Link color changes) Tj T* ET
+BT 1 0 0 1 289.4646 48.6 Tm (Hover effect works) Tj T* ET
+BT 1 0 0 1 408.5197 48.6 Tm (Pass) Tj T* ET
+BT 1 0 0 1 6 28.6 Tm (TC-04) Tj T* ET
+BT 1 0 0 1 68.3622 28.6 Tm (Move mouse over button) Tj T* ET
+BT 1 0 0 1 167.5748 28.6 Tm (Button background changes) Tj T* ET
+BT 1 0 0 1 289.4646 28.6 Tm (Hover effect works) Tj T* ET
+BT 1 0 0 1 408.5197 28.6 Tm (Pass) Tj T* ET
+BT 1 0 0 1 6 8.6 Tm (TC-05) Tj T* ET
+BT 1 0 0 1 68.3622 8.6 Tm (Inspect card styling) Tj T* ET
+BT 1 0 0 1 167.5748 8.6 Tm (Border, radius and shadow appear) Tj T* ET
+BT 1 0 0 1 289.4646 8.6 Tm (Styling displayed correctly) Tj T* ET
+BT 1 0 0 1 408.5197 8.6 Tm (Pass) Tj T* ET
+q
+1 J
+1 j
+.501961 .501961 .501961 RG
+.5 w
+n 0 120 m 462.0472 120 l S
+n 0 0 m 462.0472 0 l S
+n 0 0 m 0 120 l S
+n 462.0472 0 m 462.0472 120 l S
+n 0 100 m 462.0472 100 l S
+n 0 80 m 462.0472 80 l S
+n 0 60 m 462.0472 60 l S
+n 0 40 m 462.0472 40 l S
+n 0 20 m 462.0472 20 l S
+n 62.3622 0 m 62.3622 120 l S
+n 161.5748 0 m 161.5748 120 l S
+n 283.4646 0 m 283.4646 120 l S
+n 402.5197 0 m 402.5197 120 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+210.6986 -28.12042 30.92252 13.30499 re
+f*
+0 0 0 rg
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 212.1986 -25.62042 Tm
+(Sai Charan) Tj
+T*
+ET
+1 1 1 rg
+n
+245.2886 -28.12042 53.87262 13.30499 re
+f*
+0 0 0 rg
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 246.7886 -25.62042 Tm
+(A24126552096) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+17 0 obj
+<<
+/Contents 18 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+18 0 obj
+<<
+/Length 3107
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 7.5 Tf 9 TL ET
+.396078 .458824 .529412 rg
+BT 1 0 0 1 51.02362 25.51181 Tm (Full Stack Web Development Lab \(23CM4121\) | B.JATIN - A24126552070) Tj T* ET
+BT 1 0 0 1 520.4845 25.51181 Tm (Page 5) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 769.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 12.5 Tf 15 TL (9. OUTPUT) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 750.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2 9.5 Tf 13 TL (Output 1: Styled Technology Hub webpage with navigation, cards, hover effects, buttons, and footer.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 740.8661 cm
+Q
+q
+1 0 0 1 106.2992 498.8661 cm
+q
+1 .4 0 rg
+n 0 242 382.6772 -36 re f*
+.133333 .133333 .133333 rg
+n 0 206 382.6772 -36 re f*
+.933333 .960784 .976471 rg
+n 0 170 382.6772 -134 re f*
+.133333 .133333 .133333 rg
+n 0 36 382.6772 -36 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 218 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 -4 Tm /F2 16 Tf 12 TL 120.6666 0 Td (Technology Hub) Tj T* -120.6666 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 182 cm
+q
+BT 1 0 0 1 0 3 Tm 93.79758 0 Td 12 TL /F1 9 Tf 1 1 1 rg (Dashboard) Tj ( ) Tj ( ) Tj ( ) Tj (  Projects) Tj ( ) Tj ( ) Tj ( ) Tj (  Courses) Tj ( ) Tj ( ) Tj ( ) Tj (  Support) Tj T* -93.79758 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 48 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 94.5 Tm 13 TL /F2 9.5 Tf 0 0 0 rg (Python) Tj /F1 9.5 Tf  T*  T* (Python is a popular) Tj T* (programming language) Tj T* (used for software) Tj T* (development.) Tj  T*  T* /F2 9.5 Tf (Explore) Tj T* ET
+Q
+Q
+q
+1 0 0 1 125.0551 3 cm
+q
+BT 1 0 0 1 0 94.5 Tm 13 TL /F2 9.5 Tf 0 0 0 rg (JavaScript) Tj /F1 9.5 Tf  T*  T* (JavaScript adds) Tj T* (functionality and) Tj T* (interactive features to) Tj T* (websites.) Tj  T*  T* /F2 9.5 Tf (Explore) Tj T* ET
+Q
+Q
+q
+1 0 0 1 244.1102 3 cm
+q
+BT 1 0 0 1 0 81.5 Tm 13 TL /F2 9.5 Tf 0 0 0 rg (Database) Tj /F1 9.5 Tf  T*  T* (Databases are used to) Tj T* (store, organize, and) Tj T* (manage application data.) Tj  T*  T* /F2 9.5 Tf (Explore) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 8 12 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL 140.1466 0 Td (\251 2026 Technology Hub) Tj T* -140.1466 0 Td ET
+Q
+Q
+q
+1 J
+1 j
+.501961 .501961 .501961 RG
+1 w
+n 0 242 m 382.6772 242 l S
+n 0 0 m 382.6772 0 l S
+n 0 0 m 0 242 l S
+n 382.6772 0 m 382.6772 242 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 483.8661 cm
+Q
+q
+1 0 0 1 57.02362 461.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 12.5 Tf 15 TL (10. RESULT) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 416.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Thus, the styled Technology Hub webpage was successfully designed and implemented using HTML5 and CSS3.) Tj T* (The webpage was verified for navigation styling, Flexbox layout, card design, hover effects, buttons, and footer) Tj T* (presentation.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+210.6986 -28.12042 30.92252 13.30499 re
+f*
+0 0 0 rg
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 212.1986 -25.62042 Tm
+(Sai Charan) Tj
+T*
+ET
+1 1 1 rg
+n
+245.2886 -28.12042 53.87262 13.30499 re
+f*
+0 0 0 rg
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 246.7886 -25.62042 Tm
+(A24126552096) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+xref
+0 19
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000141 00000 n 
+0000000190 00000 n 
+0000000454 00000 n 
+0000007441 00000 n 
+0000007548 00000 n 
+0000007655 00000 n 
+0000007767 00000 n 
+0000007844 00000 n 
+0000007950 00000 n 
+0000008216 00000 n 
+0000012078 00000 n 
+0000012344 00000 n 
+0000014062 00000 n 
+0000014328 00000 n 
+0000018999 00000 n 
+0000019265 00000 n 
+trailer
+<<
+/Size 19
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+22425
+%%EOF
+3 1 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+ /AF [20 0 R] /Names << /EmbeddedFiles << /Names [(Content Credentials) 20 0 R] >> >> >>
+endobj
+19 0 obj
+<< /Length 20164 /F << /Subtype (application/c2pa) /Length 20164 >> >>
+stream
+  Nƒjumb   jumdc2pa  Ä  ™ 8õqc2pa   Nûjumb   Gjumdc2ma  Ä  ™ 8õqurn:c2pa:b1e587d6-a763-4362-8202-00da2c3b8531   éjumb   )jumdc2as  Ä  ™ 8õqc2pa.assertions   	πjumb   #jumd@À2ªäHùß*÷ÙCic2pa.icon    bfdb image/svg+xml   	wbidb<svg width="716" height="716" viewBox="0 0 716 716" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M508.749 317.399C516.777 287.314 508.991 253.884 485.389 230.282C461.788 206.681 428.36 198.895 398.273 206.923C376.231 184.928 343.39 174.956 311.148 183.596C278.906 192.234 255.45 217.292 247.36 247.361C217.291 255.451 192.233 278.91 183.595 311.149C174.957 343.391 184.927 376.232 206.924 398.274C198.896 428.359 206.683 461.789 230.284 485.391C253.885 508.992 287.313 516.779 317.401 508.75C339.442 530.745 372.286 540.717 404.525 532.079C436.767 523.441 460.223 498.384 468.313 468.315C498.383 460.224 523.44 436.766 532.078 404.526C540.716 372.285 530.747 339.443 508.749 317.402V317.399ZM470.899 244.776C486.892 260.77 493.488 282.601 490.687 303.412L415.577 260.046C412.411 258.218 408.509 258.218 405.345 260.046L317.401 310.82V277.526C317.401 275.191 318.652 273.005 320.676 271.837L387.644 233.174C414.178 218.353 448.346 222.223 470.901 244.776H470.899ZM357.837 311.144L398.275 334.491V381.185L357.837 404.532L317.398 381.185V334.491L357.837 311.144ZM264.776 269.693C265.207 239.305 285.644 211.649 316.453 203.393C338.3 197.54 360.505 202.744 377.127 215.573L302.014 258.937C298.848 260.764 296.898 264.144 296.898 267.798V369.346L268.065 352.699C266.043 351.531 264.776 349.353 264.776 347.017V269.691V269.693ZM203.391 316.454C209.244 294.608 224.854 277.978 244.276 269.999V356.73C244.276 360.384 246.226 363.763 249.392 365.591L337.337 416.365L308.503 433.013C306.481 434.181 303.961 434.188 301.939 433.02L234.971 394.357C208.868 378.789 195.138 347.261 203.391 316.454ZM244.775 470.9C228.781 454.906 222.186 433.075 224.986 412.264L300.096 455.63C303.263 457.457 307.164 457.457 310.328 455.63L398.273 404.856V438.149C398.273 440.485 397.022 442.671 394.997 443.839L328.029 482.502C301.495 497.322 267.327 493.452 244.772 470.9H244.775ZM450.897 445.982C450.466 476.371 430.029 504.027 399.22 512.283C377.373 518.136 355.168 512.932 338.547 500.102L413.659 456.738C416.826 454.911 418.775 451.532 418.775 447.877V346.329L447.609 362.977C449.631 364.145 450.897 366.323 450.897 368.659V445.985V445.982ZM512.282 399.221C506.429 421.068 490.819 437.697 471.397 445.676V358.946C471.397 355.292 469.448 351.912 466.281 350.085L378.336 299.311L407.17 282.663C409.192 281.495 411.712 281.487 413.734 282.655L480.702 321.318C506.805 336.887 520.536 368.415 512.282 399.221Z" fill="black"/>
+</svg>
+   jumb   )jumdcbor  Ä  ™ 8õqc2pa.actions.v2    œcbor°gactionsÅ§factionlc2pa.createdqdigitalSourceTypexFhttp://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMediamsoftwareAgent¢dnameggpt-5-6gversionggpt-5-6dwhenx2026-08-31T18:29:45.827720Z   §jumb   (jumdcbor  Ä  ™ 8õqc2pa.hash.data    tcbor•jexclusionsÅ¢estartZBflengthNƒdnamenjumbf manifestcalgfsha256dhashX 8-Pàpåfˆ∞†Ö!€•pDŸËyôËã…pà™Qcpad@  âjumb   'jumdc2cl  Ä  ™ 8õqc2pa.claim.v2   Zcbor¶jinstanceIDx,xmp:iid:558f5a63-be86-405c-9817-ab4de7a7f7c9tclaim_generator_info£dnamegChatGPTdicon¢curlx$self#jumbf=c2pa.assertions/c2pa.icondhashX u>=W1í≥®NÎL˚¡åt∑'w÷–6«e6„ÒkspecVersione2.2.0isignaturexMself#jumbf=/c2pa/urn:c2pa:b1e587d6-a763-4362-8202-00da2c3b8531/c2pa.signaturercreated_assertionsÉ¢curlx$self#jumbf=c2pa.assertions/c2pa.icondhashX u>=W1í≥®NÎL˚¡åt∑'w÷–6«e6„Ò¢curlx*self#jumbf=c2pa.assertions/c2pa.actions.v2dhashX Ek	ı⁄PAªõ’€%`Å; 
+Ñ,ù_yåP∂∑°9¢curlx)self#jumbf=c2pa.assertions/c2pa.hash.datadhashX XùëªÀ>ü`ËúCh∂Ô{ÍÌ	ﬂ¥zØ•ƒBG‘hdc:titleiimage.pdfcalgfsha256  @8jumb   (jumdc2cs  Ä  ™ 8õqc2pa.signature   @cbor“ÑYË¢8$!ÇYà0ÇÑ0Çl†•¸ÈpåÚÄ1ÓDds0	*ÜHÜ˜ 0J1!0USSL.com C2PA ICA R1 202510U
+SSL Corporation10	UUS0260422155105Z270423155104Z0G10	UUS10U
+OpenAI OpCo, LLC10UOpenAI Media Service0Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç ù∫jLMóÍÅâ∂—æ^XNr°ôﬂiq|Â!#”Å¢5úL£J<Ôn+øÊdÆ◊ÑKi$ZcœÍv
+ê≤e€|<ç·˛¡3wØ'ﬁ; :¥cáòÕMúø¥3D™T07F∏˝öyDsWU£c|›¨X/ÊzÆﬁ•ò√ìNHZ¯‡|§íK’l∫ ¬*»íæu‘îgµW™jöm00,◊Uaåj“S∂ x^ECûNí£ÄÒØ[—≤Î˛ãÔ∫◊7	ï´d-ô…áö¯ø.–ÁcÄñöy†7ì6£5…H…,òcÈDõ5¨πßSlúhs»
+9ÃIÛ £Çg0Çc0Uˇ0 0U#0Ä9=G‹óèØà{MsÕÂÓ§•*0o+c0a09+0Ü-http://crt-c2pa.ssl.com/SSL.com-C2PA-I-R1.cer0$+0Ühttp://ocsp-c2pa.ssl.com0U 00
++ÉË^0)U%"0 ++$
++ÉË^0UÛùM‘Àùr¯F
+vG•hOt0Uˇ¿0	+ÉË^
++ÉË^
+03	+ÉË^&$019bc403-5cd7-7669-afe6-fdb17177d4280	*ÜHÜ˜ Ç Ç8óle°7 Ò˘Ìt∫’¶[5ıglœ+fi@Õı¸“rVﬂ ï(Í¯fﬁBC=¯x†h(â≠µÓ¸ı2“å∏_ÁlÄnÎ[|ó[0Á.B∏∆pö˛˛ 	¨5F’†åIEÄ√∫íU«Zùo“Îÿyõñ:ºDê44}ÙA•3ó/.lQR
+m=I∞À«ÜXÃ‹Óû.È∆9∏3\ ⁄Ó W3T.p(J%)Oí|.“˙›g.zËPx9Q∫É:⁄à~ê#êíıbXöÂ¬®sÜû≈ÿqÈÔ\d{ëÓ7/vòxVdÁoB—}íºÖjomdÖÿˇ"ñÌπÔ≤–\Ñ}h]5[K±≈iHyÊhé†ƒaò:L¯¿$yÂ¶h‡Ô˝÷ê÷.-AduV_ìî∂°úä<∂¿ËmÛ≈CÁv,h§ÚÊÀãàïË{*r$Å=!∆cm/%Ä£ô[™)•˝GÍ·˜kÂ˚[P&m+°Ç]1ı›b®|2‹L«•,r0PÄWìÇ‚ËÆ≥ßØY4ÆrÔ*ùÆx¨‚3ÏSµ…ô“(®*7°N´¸Ã~Xõ'mE·¥*úΩ0W°1. .…‚»T€°íOæ$5ò˛/i‹∏M„ﬁ/Ëlı¡ä‚”˛rw”®+‘WóÆáÿ æì∂âYS0ÇO0Ç7†'+c»ÃM-õÑQrlÙú^2QÆﬁ0	*ÜHÜ˜ 0O1&0$USSL.com C2PA RSA Root CA 202510U
+SSL Corporation10	UUS0251222181730Z301221181730Z0J1!0USSL.com C2PA ICA R1 202510U
+SSL Corporation10	UUS0Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç À:¥Õ∏úÀ)V∏yß¯kˆ˘ÿèr√¶ò≠*A⁄a.GRΩtQæ]ÏzÇ∂¿˚˙Ë'•ãË˛bÛ`Ò_H ssï‰NnÃNz5ﬁX·◊Ç‹“GCwõﬂHàyü£9§YN^‡NGóÚuB◊v=∂§"‹Ì∆o‘rFå÷Q«µ∑zÚì˘#'’ÄPuäp†hÈÁºÑ(|ú*Í)©¿/˛…vFU∞/cÍ}ûÙ∞D§@ﬁ@6\DäTkWHˇªo§’Íé¬◊|ÿºŒiø† MìE;ô.y“œûü)ªFŸxc0ñ3Qú^ìm˙Â4JXx≥)l]|∏uï<ôw!{ÿ¥JÎ⁄Õ«
+÷…¢ﬁÆó≥∂Qñ⁄íõ√≤ªPƒ˛∂§Lï]-íjObÂ‡*˜i†ú’πì ⁄—ª^O∆Ø˘)L–…ÏÎÛ≤qP{v'hë˘Pà∏w5ÿÕ°·◊”)ÁJ∆áTY$¬g≤m	5€∫Œ∏F•‡ã⁄·ßüjŒ`“ƒ˜¡ﬁsyU‡p¥ÔÍÃ«˛vâNf
+ià-Ì√F¢*‰å‘úWF-Xb’ ®˙~¯¬ŸajÀ5]†ì£≤e®/ÌÔòÁ¸~∫HÙ™°q¸ìØÍßNsài’B¿˘ÑíÖOÀT≥=:¯›)ey Cûñ∏áXñ!Ô—ë{ £Ç&0Ç"0Uˇ0ˇ 0Uˇ0)U%"0 ++$
++ÉË^0U9=G‹óèØà{MsÕÂÓ§•*0U 00
++ÉË^0U#0Ä¸*Ju:Ä˙ôcìsWÏæì∞}√{0x+l0j0$+0Ühttp://ocsp-c2pa.ssl.com0B+0Ü6http://crt-c2pa.ssl.com/SSL.com-C2PA-Root-2025-RSA.cer0	*ÜHÜ˜ Ç Œ6˙>Ôñ6-éØUfˇ{+ kVıÀ≠Ω*Å≠•¶–M£>ì‰ìi’‰å®nÊ7T‚%úÏef(<3=¢ö¢ªÕgdJÁæt!°n√´&ƒ;,⁄Uπ˝GN‡çxõ7Éƒt;≈GaÔmAr§€]CS…ñNÂ‡:ﬂ®›.—ØXó÷ÁÙ_r#<kœΩ9´åì®èßvY>·íı˜Ÿ˚Fb´nn‘àF†≥/*j_•N⁄¯‘¸ÃŸ£<©wE
+¡˘òπ9ÀÃ°q¿*Çq”‰ˆ%‚Q!m÷ﬂ‰SçoJ}é^¿∫’wy!ÅzŒÌ˜õé∂≤äBVùèkA*˛kúãÓ£(œ_ÛÈ–d÷Ó¬âKÎíœıØ¬'M∏ë°7%ôÊ˝Ä‹Ùº«7{æ¥-gX/Á√≥ãqÂDz0∂•≤u>[#~;”T¶:π«Ã3’j5zÅv/˛W⁄i¯>?ÔTèã{F√cû˙Ìƒ/pÑ+ˆVÇÙßÀ$◊l^${:Ω©X;i≥úè“ptˇãn&ª√´E«SñúGµ∆F´^ı¸àãh£5Â|jïeµ´Îπˇ∫∏‡õJG≤ŒÏ/â}ÓØúMƒ…Œı2=è˜&4˛"ãzÌ˘^^g_Q[€$V˚—Y°∑ﬁöf	∂—Ü.˙}~ïyõDf|6Öˆı°cpadY3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       ˆY 
+π)˚ﬁü…ƒÛl1*†Wº|4ôﬁäÄM‹ïˇÙÛie⁄¨ Ω Ñ“˘*=P•∑Q∏¯û˚º˜ÉÜ¥∑óÊ
+D´‹]µR⁄aü1I¥lı∞é4DHINNÜuN5Åy‰Ÿ Ç–ü˜cQAø4¿!˚>f–‘Pj»ﬂo˛B”™Èëi_0—OpF< €˙+ò&ºÛ˘≤¥{Õ~}>¶ª`2u“Ï	©¶LPG±éLò$@˚Õd‘«˘˛|≤ﬂÙ6m®*Hx•F€nmd«(qázõ]öå›CÑ¸˙	≠=vDõ=Å¯—ñEè{∏Ÿ˜D1• nJò,±ôZf»}
+endstream
+endobj
+20 0 obj
+<< /AFRelationship /C2PA_Manifest /Desc (Content Credentials) /F (Content Credentials) /EF << /F 19 0 R >> /Subtype (application/c2pa) /Type /FileSpec /UF (Content Credentials) >>
+endobj
+xref
+3 1
+0000022884 00001 n 
+19 2
+0000023019 00000 n 
+0000043288 00000 n 
+trailer
+<< /Size 21 /Root 3 1 R /Prev 22425 >>
+startxref
+43484
+%%EOF
