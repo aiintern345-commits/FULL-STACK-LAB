@@ -1,8 +1,8 @@
 # 🎓 Student Management System — Cloud Deployed Full-Stack Web Application
 
 **Course:** Web Application Architecture & Cloud Deployment  
-**Student Name:** Hari Charan  
-**Roll Number:** A24126552080  
+**Student Name:** Sai Charan  
+**Roll Number:** A24126552096  
 **Allocated Question:** Question 6 (10 Marks)  
 
 ---
@@ -10,9 +10,9 @@
 ## 🌐 Live Production Links
 
 - **Frontend (Vercel):** [https://full-stack-eight-kappa.vercel.app](https://full-stack-eight-kappa.vercel.app)
-- **Backend API (Render):** [https://student-api-a24126552080.onrender.com](https://student-api-a24126552080.onrender.com)
+- **Backend API (Render):** [https://student-api-a24126552096.onrender.com](https://student-api-a24126552096.onrender.com)
 - **Database:** MongoDB Atlas (AWS Mumbai, M0 Cluster)
-- **GitHub Repository:** [https://github.com/emandiharicharan24csm-arc/Full-Stack/tree/main/student-management-system](https://github.com/emandiharicharan24csm-arc/Full-Stack/tree/main/student-management-system)
+- **GitHub Repository:** https://github.com/aiintern345-commits/FULL-STACK-LAB/edit/main/sudent-management-system)
 
 ---
 
