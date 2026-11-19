@@ -7,15 +7,6 @@
 
 ---
 
-## 🌐 Live Production Links
-
-- **Frontend (Vercel):** [https://full-stack-eight-kappa.vercel.app](https://full-stack-eight-kappa.vercel.app)
-- **Backend API (Render):** [https://student-api-a24126552096.onrender.com](https://student-api-a24126552096.onrender.com)
-- **Database:** MongoDB Atlas (AWS Mumbai, M0 Cluster)
-- **GitHub Repository:** https://github.com/aiintern345-commits/FULL-STACK-LAB/edit/main/sudent-management-system)
-
----
-
 ## 🏛️ System Architecture
 
 ```mermaid
