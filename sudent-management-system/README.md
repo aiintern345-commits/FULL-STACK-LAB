@@ -1,7 +1,7 @@
 # 🎓 Student Management System — Cloud Deployed Full-Stack Web Application
 
 **Course:** Web Application Architecture & Cloud Deployment  
-**Student Name:** Sai Charan  
+**Student Name:** Mallempudi Sai Charan  
 **Roll Number:** A24126552096  
 **Allocated Question:** Question 6 (10 Marks)  
 
